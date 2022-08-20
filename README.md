@@ -1,4 +1,3 @@
-# Merge-Sort
 patika.dev Veri Yapıları ve Algoritmalar - [Merge Sort Projesi ve Tüm projelerim](https://app.patika.dev/isakli05).
 # Merge Sort
 ## patika.dev Veri Yapıları ve Algoritmalar - Merge Sort Projesi
